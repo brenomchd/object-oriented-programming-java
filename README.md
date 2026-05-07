@@ -4,7 +4,7 @@ Academic portfolio with Java exercises and notebook-based projects organized for
 
 ## About
 
-This repository contains programming activities focused on object-oriented programming, Java fundamentals, file manipulation, unit testing, threads, and data processing notebooks.
+This repository contains programming activities focused on object-oriented programming, Java fundamentals, file manipulation, unit testing and threads.
 
 The code is organized into several main areas:
 
@@ -13,7 +13,6 @@ The code is organized into several main areas:
 - `professor-student-model/`: expanded OOP exercise with classes, interfaces, inheritance, and a runnable demo.
 - `junit-and-threads/`: equation exercise with a JUnit test plus a Java threads example.
 - `file-io/`: examples of reading, writing, copying, and managing files in Java.
-- `notebooks/`: database persistence notebook and final project notebooks.
 
 ## Repository Structure
 
@@ -22,7 +21,6 @@ The code is organized into several main areas:
 ├── abstract-classes-interfaces/
 ├── file-io/
 ├── junit-and-threads/
-├── notebooks/
 ├── professor-student-model/
 └── student-averages/
 ```
@@ -55,15 +53,10 @@ javac *.java
 java TestaSolucao
 ```
 
-### Notebooks
-
-The `notebooks/` directory contains data processing notebooks. These include a database persistence notebook and final project notebooks organized by Bronze, Silver, Gold, and Deploy stages.
-
 ## Requirements
 
 - JDK 17 or later
 - JUnit 4 for the equation test
-- Jupyter Notebook, JupyterLab, or Google Colab for `.ipynb` files
 - Terminal or command-line environment
 
 ## Compile and Run Examples
