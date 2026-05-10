@@ -1,6 +1,6 @@
 # Object-Oriented Programming Java
 
-Academic portfolio with Java exercises and notebook-based projects organized for study, practice, and presentation.
+Academic portfolio with Java exercises and projects organized for study, practice, and presentation.
 
 ## About
 
